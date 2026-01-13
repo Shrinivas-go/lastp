@@ -2,7 +2,7 @@ import sys
 
 if len(sys.argv) != 2:
     print("Usage: python script.py <name>")
-    sys.exit(1)
+    sys.exit(0)
 
 name = sys.argv[1]
 
