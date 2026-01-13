@@ -6,4 +6,4 @@ if len(sys.argv) == 2:
     if name == name[::-1]:
         print("is a plaindrome")
     else: 
-        printJ("not a palindrome")
+        print("not a palindrome")
